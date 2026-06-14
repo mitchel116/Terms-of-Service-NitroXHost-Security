@@ -55,7 +55,3 @@ Scaling
 • Supports PostgreSQL
 • Supports sharding
 • Supports multiple VPS server
-
-
-
-
